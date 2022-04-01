@@ -1,4 +1,4 @@
-# Projet-1-Toys-and-models-Company
+# Project-1-Toys-and-models-Company
 
 You are commissioned by a company selling models and scale models. The company already has a database that lists employees, products, orders, and much more. You are invited to browse and discover this database. The director of the company wishes to have a dashboard which he could refresh each morning to have the latest information in order to manage the company.
 
