@@ -15,4 +15,4 @@ Human Resources: Each month, the 2 sellers with the highest turnover.
 
 Nota bene: sometimes business indicators are not technically achievable. It is up to you to explain it, and to be a force of proposal to answer to the business needs.
 
-![Capture d’écran 2022-04-01 230203](https://user-images.githubusercontent.com/88583822/161340815-5d07e581-1333-442b-8f70-a5c4cb3dead9.png)
+<p align="center"> <img src="https://user-images.githubusercontent.com/88583822/161340815-5d07e581-1333-442b-8f70-a5c4cb3dead9.png" alt="Car"/> </p>
